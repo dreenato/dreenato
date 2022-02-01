@@ -3,7 +3,7 @@
 - PUCPR ➡️ Tecnologa em Análise e Desenvolvimento de Sistemas.
 - ALURA ➡️ Back-end: Java & Front-end: HTML+CSS+Javascript.
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/dreenato">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dreenato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreenato&layout=compact&langs_count=7&theme=dracula"/>
